@@ -1,0 +1,30 @@
+.navbar {
+    background-color: blue;
+}
+
+.navbar .btn {
+    background-color: rgb(89, 245, 245);
+
+}
+#hero{
+    background-color: blue;
+}
+.btn{
+    border-radius: 30rem;
+}
+.img{
+    height: 50vh;
+}
+.center img{
+        border-radius: 50%;
+      
+}
+.page{
+    background-color: blue;
+    border-radius: 30rem;
+    
+}
+#footer img{
+    height: 20vh;
+    width: 10rem;
+}
