@@ -28,3 +28,25 @@
     height: 20vh;
     width: 10rem;
 }
+@media screen and (max-width:768px) {
+    .left a{
+        display: none;
+    }
+    .left .btn{
+        display: none;
+    }
+    #hero .btn{
+        display: none;
+    }
+    .email{
+        
+    }
+    .page{
+        display: none;
+    }
+    .col{
+        display: none;
+    }
+   
+    
+}
