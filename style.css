@@ -47,6 +47,26 @@
     .col{
         display: none;
     }
-   
+    .image1{
+        padding-right: 5rem;
+        width: 25rem;
+    }
+    .card{
+        margin-top: 2rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .footer1{
+        padding-left: 3rem;
+    }
+    .footer2{
+        padding-left: 3rem;
+    }
+    .footer3{
+        padding-left: 3rem;
+    }
+    .footer4{
+        padding-left: 2rem;
+    }
     
 }
